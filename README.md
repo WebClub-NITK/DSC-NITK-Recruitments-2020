@@ -5,7 +5,7 @@
 </p>
 
 #
-* **Visit** : [Tasks]()
+* **Visit** : [Tasks](https://github.com/WebClub-NITK/DSC-NITK-Recruitments-2020/blob/master/RECRUITMENT_TASKS_2020.md)
 * Submission Deadline: **7th October 2020, 11:59pm**
 #
 
@@ -43,4 +43,4 @@ In case of any further queries:
 
 
 ### Connect
-Join the chapter [here](https://dsc.community.dev/national-institute-of-technology-karnataka/) to never miss any update and event notifications from DSC-NITK.
+Make sure to join the chapter [here](https://dsc.community.dev/national-institute-of-technology-karnataka/) to never miss any updates and event notifications from DSC-NITK.
