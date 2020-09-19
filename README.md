@@ -6,7 +6,7 @@
 
 #
 * **Visit** : [Tasks](https://github.com/WebClub-NITK/DSC-NITK-Recruitments-2020/blob/master/RECRUITMENT_TASKS_2020.md)
-* Submission Deadline: **7th October 2020, 11:59pm**
+* Submission Deadline: **4th October 2020, 11:59pm**
 #
 
 ### Instructions
