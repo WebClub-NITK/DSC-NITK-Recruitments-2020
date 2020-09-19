@@ -2,9 +2,10 @@
 
 * It is perfectly fine if you have no experience in the field and trying it out for the first time. Please put in sincere efforts!
 * Each Task has a ID, tags, mentor, description, tips and useful resources
-* Mention the Task ID in README of your private GitHub repository. 
+* Mention the Task ID in README of your private GitHub repository.  
 
-<br> <br> 
+
+
 ## Task ID: Web_Club_Chat_Bot
 #### `dialogflow` `chat bots` 
 
@@ -35,7 +36,28 @@ and so on...
 2. Bonus points will be provided depending on the multitude of queries that the chat bot will support.
 3. Create a simple website and integrate this chatbot to the site. If executed well, this chatbot will be integrated with the new web club website. 
 
-<br> <br> 
+## Task ID: NITK_Virtual_Guide
+#### `app development`
+
+Mentors: , [@Prajwal K]() (+91 9632721417), [@AdarshNaidu](https://github.com/AdarshNaidu) (+91 8618773543)
+
+Tag: `Medium`
+
+### Description
+Build a mobile application that will act as a guide for students or any guest visiting NITK. Some example sections/modules that the app can contain.  
+**Module 1: News** - This section should inform the users about the latest news related to NITK.   
+**Module 2: Events** - Should tell about the ongoing or upcoming events in NITK.  
+**Module 3: Mess Menu** - Should allow the users to choose and view menu for different mess in NITK for that particular day.  
+**Module 4: Map** - This section should contain a 2D or 3D map of NITK. It should help the user navigate to any of the locations within NITK.  
+
+Note:  
+1. It's not necessary to implement all the modules listed above, implement as many as possible.  
+2. Feel free to add your own modules or make changes to any of the modules listed above.  
+
+Tips:  
+1. Bonus points if the values used by various modules instead of hardcoding, are loaded dynamically from a backend service/spread sheet/any other online storage.  
+2. Give more importance to UI/UX.  
+
 ## Task ID: 
 #### `tags`
 Mentor: [@GitHub]() (+91 whatsapp number)
