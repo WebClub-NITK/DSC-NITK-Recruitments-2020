@@ -39,7 +39,7 @@ and so on...
 ## Task ID: NITK_Virtual_Guide
 #### `app development`
 
-Mentors: , [@Prajwal K]() (+91 9632721417), [@AdarshNaidu](https://github.com/AdarshNaidu) (+91 8618773543)
+Mentors: , [@Prajwal S](https://github.com/prajwal27) (+91 9632721417), [@AdarshNaidu](https://github.com/AdarshNaidu) (+91 8618773543)
 
 Tag: `Medium`
 
@@ -50,11 +50,11 @@ Build a mobile application that will act as a guide for students or any guest vi
 **Module 3: Mess Menu** - Should allow the users to choose and view menu for different mess in NITK for that particular day.  
 **Module 4: Map** - This section should contain a 2D or 3D map of NITK. It should help the user navigate to any of the locations within NITK.  
 
-Note:  
+### Note:  
 1. It's not necessary to implement all the modules listed above, implement as many as possible.  
 2. Feel free to add your own modules or make changes to any of the modules listed above.  
 
-Tips:  
+### Tips:  
 1. Bonus points if the values used by various modules instead of hardcoding, are loaded dynamically from a backend service/spread sheet/any other online storage.  
 2. Give more importance to UI/UX.  
 
