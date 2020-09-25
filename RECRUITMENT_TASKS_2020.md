@@ -73,4 +73,26 @@ description
 ### Tips
 1. tips
 
-<br> <br>
+## Task ID: Reddit_Client
+#### `api` `app development` `web development`
+
+Mentors: [@Dhanasekhar](https://github.com/DhanaSekharM) (+91 9538512471), [@Varun Pattar](https://github.com/varunpattar) (+91 97400 52012)
+
+Tag: `Medium`
+
+### Description
+Reddit is a website comprising user-generated content—including photos, videos, links, and text-based posts—and discussions of this content in what is essentially a bulletin board system.
+Your task is to build a frontend client(web or app or cli) using the Reddit API which is openly available.
+Basic features such as
+* Viewing posts(text, images, videos or link previews) from the front page of Reddit
+* Sorting posts according to Hot, New, Top, etc.
+* Upvotes, awards and comments
+should be implemented. Feel free add additional features such as authentication, allowing upvotes/downvotes etc.
+
+### Useful resources:
+* Reddit API - https://www.reddit.com/dev/api
+* What are REST APIs: https://restfulapi.net/
+* Official Reddit clients: [Web](https://www.reddit.com), [Android](https://play.google.com/store/apps/details?id=com.reddit.frontpage&hl=en_IN)
+
+### Tips
+1. Give more importance to UI/UX.
