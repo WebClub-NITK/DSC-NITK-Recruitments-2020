@@ -73,6 +73,31 @@ description
 ### Tips
 1. tips
 
+## Task ID: NITK_Winter_Of_Code_Homepage
+#### `web development` `frontend develoment`
+
+Mentors: [@Sriram Rao](https://github.com/Sriram2001) (+91 7975610644), [@Madhumitha Nara](https://github.com/madhumithanara) (+91 7981819450), [@Harsh Prakash Gupta](https://github.com/harshnitk17) (+91 7898578609)
+
+Tag: `Easy`
+
+### Description
+NITK Winter of Code is an initiative by NITK to promote Open Source culture among the students and also to givee a feel of similar events like GSoC.
+Your task is to design and develop an attractive homepage for the NITK Winter of Code portal. You can take inspiration from websites of similar events such as [Google Summer of Code](https://summerofcode.withgoogle.com/) or [Kharagpur Winter of Code](https://kwoc-19-archive.herokuapp.com/).
+The website should have:
+* A landing section with call to action
+* Useful information about the event like registration dates, benefits etc. (You can make up the details like the timeline and such)
+* A timeline section
+* Anything you feel the wewbsite can use and will look good
+* You can use any kind of effects or animations to make the website attractive
+
+### Useful resources:
+* HTML, CSS, JavaScript tutorials: https://www.w3schools.com/
+* React JS docs: https://reactjs.org/tutorial/tutorial.html
+
+### Tips
+1. Design your website on a design tool like [Figma](https://www.figma.com/)(free) or [Adobe XD](https://www.adobe.com/in/products/xd.html)(also free!) before coding the website.
+2. Try setting up the repository and use your homepage instead of the one currently in the codebase.
+
 ## Task ID: Reddit_Client
 #### `api` `app development` `web development`
 
@@ -120,7 +145,7 @@ Tag: `Hard`
 ## Task ID: Video Chat Application
 #### `WebRtc` `WebSockets` `web development`
 
-Mentors: [@namanmanish](https://github.com/namanmanish) (+91 9429504960), [@Sriram2001](https://github.com/Sriram2001) (+91 7975610644), [@harshnitk17](https://github.com/harshnitk17) (+91 7898578609)
+Mentors: [@Naman Trivedi](https://github.com/namanmanish) (+91 9429504960), [@Sriram Rao](https://github.com/Sriram2001) (+91 7975610644), [@Harsh Prakash Gupta](https://github.com/harshnitk17) (+91 7898578609)
 
 Tag: `Medium`
 
@@ -136,6 +161,7 @@ Some necessary features are:-
 * Django Tutorials - https://www.youtube.com/watch?v=Fc2O3_2kax8&list=PLw02n0FEB3E3VSHjyYMcFadtQORvl1Ssj
 * Django channels: https://channels.readthedocs.io/en/latest/
 * WebRtc tutorial: https://www.youtube.com/watch?v=2Z2PDsqgJP8
+* Express JS tutorial: https://youtu.be/L72fhGm1tfE
 * Peer JS docs: https://peerjs.com/
 * Socket IO docs: https://socket.io/docs/
 
