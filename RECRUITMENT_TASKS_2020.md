@@ -93,6 +93,8 @@ The website should have:
 ### Useful resources:
 * HTML, CSS, JavaScript tutorials: https://www.w3schools.com/
 * React JS docs: https://reactjs.org/tutorial/tutorial.html
+* Current portal source code: https://github.com/woc-nitk/Project-Management-Portal
+* [Current portal website](https://woc-demo-portal.herokuapp.com/)
 
 ### Tips
 1. Design your website on a design tool like [Figma](https://www.figma.com/)(free) or [Adobe XD](https://www.adobe.com/in/products/xd.html)(also free!) before coding the website.
