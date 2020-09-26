@@ -2,8 +2,35 @@
 
 * It is perfectly fine if you have no experience in the field and trying it out for the first time. Please put in sincere efforts!
 * Each Task has a ID, tags, mentor, description, tips and useful resources
-* Mention the Task ID in README of your private GitHub repository.  
+* Mention the Task ID(s) of all task(s) attempted in the README of your private GitHub repository.  
 
+
+## Task ID: NITK_Winter_Of_Code_Homepage
+#### `web development` `frontend develoment`
+
+Mentors: [@Sriram Rao](https://github.com/Sriram2001) (+91 7975610644), [@Madhumitha Nara](https://github.com/madhumithanara) (+91 7981819450), [@Harsh Prakash Gupta](https://github.com/harshnitk17) (+91 7898578609)
+
+Tag: `Easy`
+
+### Description
+NITK Winter of Code is an initiative by NITK to promote Open Source culture among the students and also to give a feel of similar events like GSoC.
+Your task is to design and develop an attractive homepage for the NITK Winter of Code portal. You can take inspiration from websites of similar events such as [Google Summer of Code](https://summerofcode.withgoogle.com/) or [Kharagpur Winter of Code](https://kwoc-19-archive.herokuapp.com/).
+The website should have:
+* A landing section with call to action
+* Useful information about the event like registration dates, benefits etc. (You can make up the details like the timeline and such)
+* A timeline section
+* Anything you feel the wewbsite can use and will look good
+* You can use any kind of effects or animations to make the website attractive
+
+### Useful resources:
+* HTML, CSS, JavaScript tutorials: https://www.w3schools.com/
+* React JS docs: https://reactjs.org/tutorial/tutorial.html
+* Current portal source code: https://github.com/woc-nitk/Project-Management-Portal
+* [Current portal website](https://woc-portal-demo.herokuapp.com/)
+
+### Tips
+1. Design your website on a design tool like [Figma](https://www.figma.com/)(free) or [Adobe XD](https://www.adobe.com/in/products/xd.html)(also free!) before coding the website.
+2. Try setting up the repository and use your homepage instead of the one currently in the codebase.
 
 
 ## Task ID: Web_Club_Chat_Bot
@@ -58,32 +85,6 @@ Build a mobile application that will act as a guide for students or any guest vi
 1. Bonus points if the values used by various modules instead of hardcoding, are loaded dynamically from a backend service/spread sheet/any other online storage.  
 2. Give more importance to UI/UX.  
 
-## Task ID: NITK_Winter_Of_Code_Homepage
-#### `web development` `frontend develoment`
-
-Mentors: [@Sriram Rao](https://github.com/Sriram2001) (+91 7975610644), [@Madhumitha Nara](https://github.com/madhumithanara) (+91 7981819450), [@Harsh Prakash Gupta](https://github.com/harshnitk17) (+91 7898578609)
-
-Tag: `Easy`
-
-### Description
-NITK Winter of Code is an initiative by NITK to promote Open Source culture among the students and also to give a feel of similar events like GSoC.
-Your task is to design and develop an attractive homepage for the NITK Winter of Code portal. You can take inspiration from websites of similar events such as [Google Summer of Code](https://summerofcode.withgoogle.com/) or [Kharagpur Winter of Code](https://kwoc-19-archive.herokuapp.com/).
-The website should have:
-* A landing section with call to action
-* Useful information about the event like registration dates, benefits etc. (You can make up the details like the timeline and such)
-* A timeline section
-* Anything you feel the wewbsite can use and will look good
-* You can use any kind of effects or animations to make the website attractive
-
-### Useful resources:
-* HTML, CSS, JavaScript tutorials: https://www.w3schools.com/
-* React JS docs: https://reactjs.org/tutorial/tutorial.html
-* Current portal source code: https://github.com/woc-nitk/Project-Management-Portal
-* [Current portal website](https://woc-portal-demo.herokuapp.com/)
-
-### Tips
-1. Design your website on a design tool like [Figma](https://www.figma.com/)(free) or [Adobe XD](https://www.adobe.com/in/products/xd.html)(also free!) before coding the website.
-2. Try setting up the repository and use your homepage instead of the one currently in the codebase.
 
 ## Task ID: Reddit_Client
 #### `api` `app development` `web development`
@@ -109,25 +110,7 @@ should be implemented. Feel free add additional features such as authentication,
 ### Tips
 1. Give more importance to UI/UX.
 
-## Task ID: multiplatform
-####  `multiplatform development` `android` `iOS` `web development` `desktop application`
 
-Mentors: [@mananpoddar](https://github.com/mananpoddarm) (+91 9113536695)
-
-Tag: `Hard`
-
-### Description
-* As we get aware of more and more clients like mobile(android or iOS), web and desktop appliations, we should realise that if we want to develop an application supporting these many clients, we have to write the same logic for a feature over and over again right? Because every client have a different tech stack like web has javascript frontend frameworks, android has react-native etc which can develop package that can run over JVM, or windows desktop application can be developed using Microsoft's windows universal tool in c# or c++?
-* I don't want to overwhelm you with loads of information, but believe me this task is doable and to explain it in the simple english at the risk of sounding technically disabled or ignorant(who cares xD), you should be able to write code once, and run that code over all these multiple clients without worrying about different tech stacks.
-* There are multiple tools for developing such pipelines, like react or kotlin multiplatform plugin. you have to read the documentation carefully and try to develop such a pipeline and it can be for a very simple feature, as simple as a textbox which can just display the number of characters a user has inputted.
-
-
-### Useful resources:
-* kotlin multiplatform plugin - https://kotlinlang.org/docs/reference/mpp-intro.html
-* comparison between different tools: https://steelkiwi.com/blog/flutter-vs-react-native-vs-xamarin-for-cross-platform-development/
-
-### Tips
-1. web and android or android and iOS can be an easy combination to start with.
 
 ## Task ID: Video Chat Application
 #### `WebRtc` `WebSockets` `web development`
@@ -155,11 +138,31 @@ Some necessary features are:-
 ### Tips
 1. Bonus points for good UI/UX across differnt devices and screen sizes.
 
+
+## Task ID: Multiplatform_App
+####  `multiplatform development` `android` `iOS` `web development` `desktop application`
+
+Mentors: [@mananpoddar](https://github.com/mananpoddarm) (+91 9113536695)
+
+Tag: `Hard`
+
+### Description
+* As we get aware of more and more clients like mobile(android or iOS), web and desktop appliations, we should realise that if we want to develop an application supporting these many clients, we have to write the same logic for a feature over and over again right? Because every client have a different tech stack like web has javascript frontend frameworks, android has react-native etc which can develop package that can run over JVM, or windows desktop application can be developed using Microsoft's windows universal tool in c# or c++?
+* I don't want to overwhelm you with loads of information, but believe me this task is doable and to explain it in the simple english at the risk of sounding technically disabled or ignorant(who cares xD), you should be able to write code once, and run that code over all these multiple clients without worrying about different tech stacks.
+* There are multiple tools for developing such pipelines, like react or kotlin multiplatform plugin. you have to read the documentation carefully and try to develop such a pipeline and it can be for a very simple feature, as simple as a textbox which can just display the number of characters a user has inputted.
+
+
+### Useful resources:
+* kotlin multiplatform plugin - https://kotlinlang.org/docs/reference/mpp-intro.html
+* comparison between different tools: https://steelkiwi.com/blog/flutter-vs-react-native-vs-xamarin-for-cross-platform-development/
+### Tips
+1. web and android or android and iOS can be an easy combination to start with.
+
 ## Task ID: Winter_of_Code_Server
 #### `MySQL`  `GraphQL`  `Node.js` 
 Mentor: [@adharshkamath]() (+91 8296678775), [@SaurabhAgarwala]() (+91 8415859101)
 
-Tag: `Medium - Hard`
+Tag: `Hard`
 
 ### Description
 The Winter of Code portal's backend currently uses MySQL queries to get data from the database, and then sends these objects directly to the client. The task is to replace these queries using an ORM. The database schema can be found in the Wiki of the repo. 
@@ -173,6 +176,7 @@ Link to the GitHub repo - [https://github.com/woc-nitk/Project-Management-Portal
 
 ### Tips
 1. Once you understand the basics of how raw SQL queries work, the task becomes pretty simple
+
 
 ## Task ID: HTML5_Game
 #### `Game Development`  `Web Games`
