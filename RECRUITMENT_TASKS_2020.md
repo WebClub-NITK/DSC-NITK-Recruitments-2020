@@ -58,21 +58,6 @@ Build a mobile application that will act as a guide for students or any guest vi
 1. Bonus points if the values used by various modules instead of hardcoding, are loaded dynamically from a backend service/spread sheet/any other online storage.  
 2. Give more importance to UI/UX.  
 
-## Task ID:
-#### `tags`
-Mentor: [@GitHub]() (+91 whatsapp number)
-
-Tag: `difficulty`
-
-### Description
-description
-
-### Useful resources:
-* links
-
-### Tips
-1. tips
-
 ## Task ID: NITK_Winter_Of_Code_Homepage
 #### `web development` `frontend develoment`
 
@@ -169,3 +154,40 @@ Some necessary features are:-
 
 ### Tips
 1. Bonus points for good UI/UX across differnt devices and screen sizes.
+
+## Task ID: Winter_of_Code_Server
+#### `MySQL`  `GraphQL`  `Node.js` 
+Mentor: [@adharshkamath]() (+91 8296678775), [@SaurabhAgarwala]() (+91 8415859101)
+
+Tag: `Medium - Hard`
+
+### Description
+The Winter of Code portal's backend currently uses MySQL queries to get data from the database, and then sends these objects directly to the client. The task is to replace these queries using an ORM. The database schema can be found in the Wiki of the repo. 
+Link to the GitHub repo - [https://github.com/woc-nitk/Project-Management-Portal](https://github.com/woc-nitk/Project-Management-Portal)
+
+### Useful resources:
+ - [What is an ORM](https://blog.bitsrc.io/what-is-an-orm-and-why-you-should-use-it-b2b6f75f5e2a)
+ - [GraphQL tutorial](https://www.howtographql.com/graphql-js/0-introduction/)
+ - [Using sequelize with Express](https://sequelize.readthedocs.io/en/1.7.0/articles/express/)
+ - [TypeORM docs](https://typeorm.io/#/connection)
+
+### Tips
+1. Once you understand the basics of how raw SQL queries work, the task becomes pretty simple
+
+## Task ID: HTML5_Game
+#### `Game Development`  `Web Games`
+Mentor: [@adharshkamath]() (+91 8296678775), [@SaurabhAgarwala]() (+91 8415859101)
+
+Tag: `Hard`
+
+### Description
+Develop a multiplayer HTML5 game. The game need not have a very complex story/narrative. You're free to use any web game framework, any freely available sprites, sounds, fonts, etc. Use Socket.io or WebRTC for communication between the server and clients.
+Get creative with the theme and other details.
+
+### Useful resources:
+ - [Javascript Game Engines](https://github.com/collections/javascript-game-engines)
+ - [Socket.io](https://socket.io/docs/)
+ - [Peer JS](https://peerjs.com/docs.html#start)
+
+### Tips
+1. Try to make a single player web game and then add the communication part with other players
