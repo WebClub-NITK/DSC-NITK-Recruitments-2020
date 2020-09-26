@@ -81,7 +81,7 @@ Mentors: [@Sriram Rao](https://github.com/Sriram2001) (+91 7975610644), [@Madhum
 Tag: `Easy`
 
 ### Description
-NITK Winter of Code is an initiative by NITK to promote Open Source culture among the students and also to givee a feel of similar events like GSoC.
+NITK Winter of Code is an initiative by NITK to promote Open Source culture among the students and also to give a feel of similar events like GSoC.
 Your task is to design and develop an attractive homepage for the NITK Winter of Code portal. You can take inspiration from websites of similar events such as [Google Summer of Code](https://summerofcode.withgoogle.com/) or [Kharagpur Winter of Code](https://kwoc-19-archive.herokuapp.com/).
 The website should have:
 * A landing section with call to action
