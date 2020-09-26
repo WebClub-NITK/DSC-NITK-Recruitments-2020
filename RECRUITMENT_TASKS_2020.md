@@ -7,7 +7,7 @@
 
 
 ## Task ID: Web_Club_Chat_Bot
-#### `dialogflow` `chat bots` 
+#### `dialogflow` `chat bots`
 
 Mentors: [@AdarshNaidu](https://github.com/AdarshNaidu) (+91 8618773543), [@madhumithanara](https://github.com/madhumithanara) (+91 7981819450)
 
@@ -31,10 +31,10 @@ and so on...
 * Adding Fulfillment: https://cloud.google.com/dialogflow/es/docs/fulfillment-overview
 * Sample guilde on building chatbot: https://marutitech.com/build-a-chatbot-using-dialogflow/
 
-### Tips 
+### Tips
 1. Some of the queries based on club events will require you to fetch the results from the spreadsheet in realtime.
 2. Bonus points will be provided depending on the multitude of queries that the chat bot will support.
-3. Create a simple website and integrate this chatbot to the site. If executed well, this chatbot will be integrated with the new web club website. 
+3. Create a simple website and integrate this chatbot to the site. If executed well, this chatbot will be integrated with the new web club website.
 
 ## Task ID: NITK_Virtual_Guide
 #### `app development`
@@ -58,7 +58,7 @@ Build a mobile application that will act as a guide for students or any guest vi
 1. Bonus points if the values used by various modules instead of hardcoding, are loaded dynamically from a backend service/spread sheet/any other online storage.  
 2. Give more importance to UI/UX.  
 
-## Task ID: 
+## Task ID:
 #### `tags`
 Mentor: [@GitHub]() (+91 whatsapp number)
 
@@ -97,7 +97,7 @@ should be implemented. Feel free add additional features such as authentication,
 ### Tips
 1. Give more importance to UI/UX.
 
-## Task ID: multiplatform 
+## Task ID: multiplatform
 ####  `multiplatform development` `android` `iOS` `web development` `desktop application`
 
 Mentors: [@mananpoddar](https://github.com/mananpoddarm) (+91 9113536695)
@@ -105,9 +105,9 @@ Mentors: [@mananpoddar](https://github.com/mananpoddarm) (+91 9113536695)
 Tag: `Hard`
 
 ### Description
-* As we get aware of more and more clients like mobile(android or iOS), web and desktop appliations, we should realise that if we want to develop an application supporting these many clients, we have to write the same logic for a feature over and over again right? Because every client have a different tech stack like web has javascript frontend frameworks, android has react-native etc which can develop package that can run over JVM, or windows desktop application can be developed using Microsoft's windows universal tool in c# or c++? 
+* As we get aware of more and more clients like mobile(android or iOS), web and desktop appliations, we should realise that if we want to develop an application supporting these many clients, we have to write the same logic for a feature over and over again right? Because every client have a different tech stack like web has javascript frontend frameworks, android has react-native etc which can develop package that can run over JVM, or windows desktop application can be developed using Microsoft's windows universal tool in c# or c++?
 * I don't want to overwhelm you with loads of information, but believe me this task is doable and to explain it in the simple english at the risk of sounding technically disabled or ignorant(who cares xD), you should be able to write code once, and run that code over all these multiple clients without worrying about different tech stacks.
-* There are multiple tools for developing such pipelines, like react or kotlin multiplatform plugin. you have to read the documentation carefully and try to develop such a pipeline and it can be for a very simple feature, as simple as a textbox which can just display the number of characters a user has inputted. 
+* There are multiple tools for developing such pipelines, like react or kotlin multiplatform plugin. you have to read the documentation carefully and try to develop such a pipeline and it can be for a very simple feature, as simple as a textbox which can just display the number of characters a user has inputted.
 
 
 ### Useful resources:
@@ -116,3 +116,26 @@ Tag: `Hard`
 
 ### Tips
 1. web and android or android and iOS can be an easy combination to start with.
+
+## Task ID: Video Chat Application
+#### `WebRtc` `WebSockets` `web development`
+
+Mentors: [@namanmanish](https://github.com/namanmanish) (+91 9429504960)
+
+Tag: `Medium`
+
+### Description
+Develop a website which facilitates video conferencing by implementing WebRtc architecture(Peer to Peer) <br/>
+Some necessary features are:-
+* When a user visits the home page he/she should get two options, to create a room or to join a room (Much similar to Zoom)
+* Once he/she joins the created room he/she should get the room_id to share with people who can than join the room using this room_id
+* The room should also provide a feature for text chat messages
+* This text chat should be dynamic(We need not refresh page for updating with new chats)
+* The space of chat room should be on left/right side of the web page can there should be a option to hide it(Much like Google meets)
+### Useful resources:
+* Django Tutorials - https://www.youtube.com/watch?v=Fc2O3_2kax8&list=PLw02n0FEB3E3VSHjyYMcFadtQORvl1Ssj
+* Django channels: https://channels.readthedocs.io/en/latest/
+* WebRtc tutorial: https://www.youtube.com/watch?v=2Z2PDsqgJP8
+
+### Tips
+1. Bonous points for good UI/UX.
