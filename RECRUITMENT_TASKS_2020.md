@@ -168,4 +168,4 @@ Some necessary features are:-
 * Socket IO docs: https://socket.io/docs/
 
 ### Tips
-1. Bonous points for good UI/UX across differnt devices and screen sizes.
+1. Bonus points for good UI/UX across differnt devices and screen sizes.
