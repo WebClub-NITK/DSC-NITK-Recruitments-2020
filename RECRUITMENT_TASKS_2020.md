@@ -2,7 +2,8 @@
 
 * It is perfectly fine if you have no experience in the field and trying it out for the first time. Please put in sincere efforts!
 * Each Task has a ID, tags, mentor, description, tips and useful resources
-* Mention the Task ID(s) of all task(s) attempted in the README of your private GitHub repository.  
+* Mention the Task ID(s) of all task(s) attempted in the README of your private GitHub repository.
+* Read the instructions, evaluation criteria and submission details [here](https://github.com/WebClub-NITK/DSC-NITK-Recruitments-2020/blob/master/README.md)
 
 
 ## Task ID: NITK_Winter_Of_Code_Homepage
