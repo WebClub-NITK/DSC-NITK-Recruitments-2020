@@ -5,9 +5,6 @@
 </p>
 
 #
-* **Visit** : [Tasks](https://github.com/WebClub-NITK/DSC-NITK-Recruitments-2020/blob/master/RECRUITMENT_TASKS_2020.md)
-* Submission Deadline: **4th October 2020, 11:59pm**
-#
 
 ### Instructions
 1. Candidates can choose to take up any number of tasks.
@@ -31,6 +28,10 @@
 	* Clear commit messages, GitHub best practices and consistent effort (Please refrain from commiting all the code on the deadline date).
 	* Have an understanding of the code or ideas used from external sources.
 	* **IMPORTANT**: Please give proper mention and references when using external sources i.e mention links to resource and developer name, star repos referred to, etc. during documentation.
+
+### Recruitment Tasks
+* **Visit** : [Tasks](https://github.com/WebClub-NITK/DSC-NITK-Recruitments-2020/blob/master/RECRUITMENT_TASKS_2020.md)
+* Submission Deadline: **4th October 2020, 11:59pm**
 
 ### Submission
 Fill this [form](https://forms.gle/rmiPmqeVNBueTHyB9) on or before the deadline date.
