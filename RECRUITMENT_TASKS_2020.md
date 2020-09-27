@@ -68,6 +68,20 @@ Let's explore micorservice architecture by implementing an e-commerce website, c
 2. The choice of programming language is crucial - conventional backend frameworks like Django, Ruby on Rails might obstruct the process. Go is recommmended.
 3. The emphasis of the task is to understand and build services: prioritise on backend and interservice communication rather than building user interface.
 
+## Task ID: EMAIL_NOTIFICATION
+#### `web developement`
+Mentor:  [@mananpoddar](https://github.com/mananpoddarm) (+91 9113536695), [@Vivesh Yadav]() (+91 74629 42781), [@Dhanasekhar](https://github.com/DhanaSekharM) (+91 9538512471)
+
+Tag: `Easy`
+
+### Description
+Create an authenticated platform where admin can send message to registered users via email.
+Collect relevant infomation from users so that admin can notify user based on certain criteria(eg location).The user data can be stored in a database of your choice.
+Admin can either choose to notify everyone at once or based on certain filters on user data.
+
+### Useful resources:
+ - [Sending emails in django](https://docs.djangoproject.com/en/3.1/topics/email/) (Using Django is not mandatory, feel free to use any framework)
+
 
 ## Task ID: Web_Club_Chat_Bot
 #### `dialogflow` `chat bots`
