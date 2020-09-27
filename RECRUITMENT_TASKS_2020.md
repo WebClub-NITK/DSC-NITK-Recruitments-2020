@@ -247,7 +247,7 @@ Get creative with the theme and other details.
 ## Task ID: MicroKart
 
 #### `Web Development`, `Microservices`
-Mentor: [@abhishekkumar2718]() (+91 7587730714), [@namanmanish]() (+91 9429504960), [@prajwal27]() (+91 9632721417)
+Mentor: [@abhishekkumar2718](https://github.com/abhishekkumar2718) (+91 7587730714), [@namanmanish](https://github.com/namanmanish) (+91 9429504960), [@Varun Pattar](https://github.com/varunpattar) (+91 97400 52012)
 
 Tag: `Easy`
 
@@ -278,3 +278,36 @@ Let's explore micorservice architecture by implementing an e-commerce website, c
 1. Document *at least* the following in your README - Description, Tech Stack, Installation instructions, Use instructions, API endpoints (if exposed), Screenshots (if any).
 2. The choice of programming language is crucial - conventional backend frameworks like Django, Ruby on Rails might obstruct the process. Go is recommmended.
 3. The emphasis of the task is to understand and build services: prioritise on backend and interservice communication rather than building user interface.
+
+## Task ID: Stock_Price_Tracker
+
+#### `Web Development`, `Websockets`
+Mentor: [@abhishekkumar2718](https://github.com/abhishekkumar2718) (+91 7587730714), [@Prajwal S](https://github.com/prajwal27) (+91 9632721417)
+
+Tag: `Hard`
+
+### Description
+
+You are an up and coming developer for a stock trading company. The stock traders bring the following complaint to you:
+
+> All stock prices are listed on a page and change second to second. However, the page does not update dynamically and we are tired of manually refreshing the page all time.
+
+After doing some research, you figure out there are three possible solutions: Long Polling, Server Side Events and Websockets. Before commiting to an implementation, you would like to compare between the options by building a prototype and make a "Request for Comments" to your fellow developers.
+
+For the prototype, you decide on the following constraints:
+- The page contains 1000 stocks, with three columns - name, current price, most recent change.
+- Prices are updated each second, with the following rules: A stock has a 50% chance to change, with the change in range of -5% to +5% of the original price.
+- There will be 50 concurrent users (representing the size of the company's stock trading team).
+- No new stocks are added during runtime.
+
+### Useful resources:
+
+- [Polling vs SSE vs WebSockets](https://codeburst.io/polling-vs-sse-vs-websocket-how-to-choose-the-right-one-1859e4e13bd9) 
+- [RFC Style Guide](https://tools.ietf.org/html/rfc7322) - You don't need to follow this rigorously but stick to the spirit.
+- Refer to related resources for the backend framework of your choice.
+
+### Tips
+
+1. Document *at least* the following in your README - Description, Tech Stack, Installation instructions, Use instructions, Screenshots.
+2. The task emphasises building a prototype and writing a performance report - be sure to explain the different solutions, pros, cons and your conclusion.
+3. If possible, measure the performance characteristics at different levels of load.
