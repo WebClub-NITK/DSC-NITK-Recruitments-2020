@@ -31,7 +31,7 @@ The website should have:
 
 ### Tips
 1. Design your website on a design tool like [Figma](https://www.figma.com/)(free) or [Adobe XD](https://www.adobe.com/in/products/xd.html)(also free!) before coding the website.
-2. Try setting up the repository and use your homepage instead of the one currently in the codebase.
+2. Set up the existing repository and use your homepage instead of the one currently in the use for bonus points.
 
 ## Task ID: MicroKart
 
