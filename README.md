@@ -7,7 +7,7 @@
 #
 ### Recruitment Tasks
 * **Visit** : [Tasks](https://github.com/WebClub-NITK/DSC-NITK-Recruitments-2020/blob/master/RECRUITMENT_TASKS_2020.md)
-* Submission Deadline: **4th October 2020, 11:59pm**
+* Submission Deadline: **7th October 2020, 11:59pm**
 
 ### Instructions
 1. Candidates can choose to take up any number of tasks.
@@ -38,7 +38,7 @@
 Fill this [form](https://forms.gle/rmiPmqeVNBueTHyB9) on or before the deadline date.
 
 ### Contact
-In case of further queries contact:
+In case of further queries contact post in the [Recruitment WhatsApp group](https://chat.whatsapp.com/Fy0VXnL0JfJFLytBiJfiuQ) or contact:
 * Adarsh Naidu (+91 8618773543)
 * Apoorva MK (+91 9902921511) 
 * Saurabh Agarwala (+91 8415859101)

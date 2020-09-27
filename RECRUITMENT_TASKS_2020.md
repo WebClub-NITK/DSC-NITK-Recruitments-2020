@@ -5,53 +5,6 @@
 * Mention the Task ID(s) of all task(s) attempted in the README of your private GitHub repository.
 * Read the instructions, evaluation criteria and submission details [here](https://github.com/WebClub-NITK/DSC-NITK-Recruitments-2020/blob/master/README.md)
 
-## Task ID: Lazy_Loading
-#### `web development` `frontend develoment`
-
-Mentors: [@Harsh Agarwal](https://github.com/harshagrwl) (+91 9582885426), [@Apoorva MK](https://github.com/apoorva-mk) (+91 9902921511)
-
-Tag: `Medium`
-
-### Description
-Create a Web Application which should implement lazy loading and display only a few records on the screen at a time. For the demonstration purpose, you can use any dataset having more than 1000 records. The number of records per scroll event must be decided based on User Experience.
-**Note: You are free to use any Dataset and any framework of your choice*
-
-### Useful resources:
-* Example of a Lazy Loading Website: https://scrollmagic.io/examples/advanced/infinite_scrolling.html
-* Dataset which can be used for implementation: http://downloads.majestic.com/majestic_million.csv 
-* Lazy Loading tutorial in Angular: https://angular.io/guide/lazy-loading-ngmodules
-
-### Tips:
-1. Bonus points will be given for implementing lazy loading for images.
-2. Bonus points will be given for deploying the Web App to the cloud.
-
-## Task ID: Alarming_System_Mobile_App
-#### `app development`
-
-Mentors: [@Harsh Agarwal](https://github.com/harshagrwl) (+91 9582885426), [@Apoorva MK](https://github.com/apoorva-mk) (+91 9902921511)
-
-Tag: `Medium`
-
-### Description
-Build a mobile application that will act as an emergency alarming system for the friends and acquaintances whenever a person needs help. Some example functionalities that the app can contain.  
-1. User should be able to Sign In the application using thier Mobile Number or Email Id (OAuth).
-2. User should be able to select Emergenecy Contacts out of his/her saved contacts.
-3. In case of any emergency, user should be able to just press a button to send the Help SMS to all the emergency contacts.
-4. A common template can be used for the SMS to be sent.
-
-### Note:  
-1. It's not necessary to implement all the modules listed above, implement as many as possible.  
-2. Feel free to add your own modules or make changes to any of the modules listed above.  
-
-### Useful resources:
-* Android tutorials: https://developer.android.com/training/basics/firstapp
-* Tutorial for integrating SMS API: https://www.twilio.com/blog/2016/05/how-to-send-an-sms-from-android.html
-* Firebase Phone Auth: https://firebase.google.com/docs/auth/web/phone-auth
-
-### Tips:  
-1. Bonus points if the data is loaded dynamically from a backend service/spread sheet/any other online storage instead of hardcoding.  
-2. Bonus points for Good UI/UX.  
-
 
 ## Task ID: NITK_Winter_Of_Code_Homepage
 #### `web development` `frontend develoment`
@@ -79,6 +32,41 @@ The website should have:
 ### Tips
 1. Design your website on a design tool like [Figma](https://www.figma.com/)(free) or [Adobe XD](https://www.adobe.com/in/products/xd.html)(also free!) before coding the website.
 2. Try setting up the repository and use your homepage instead of the one currently in the codebase.
+
+## Task ID: MicroKart
+
+#### `Web Development`, `Microservices`
+Mentor: [@abhishekkumar2718](https://github.com/abhishekkumar2718) (+91 7587730714), [@namanmanish](https://github.com/namanmanish) (+91 9429504960), [@Varun Pattar](https://github.com/varunpattar) (+91 97400 52012)
+
+Tag: `Easy`
+
+### Description
+
+Microservice Architectural style is an approach to developing a single application as a suite of small services, each running its own processes and communicating with lightweight mechanisms. The services are:
+- Highly maintainable and testable
+- Loosely coupled
+- Independently deployable
+- Organized around business capabilities
+- Owned by a small team.
+
+Microservice architecture enables rapid, frequent and reliable delivery of large, complex applications.
+
+Let's explore micorservice architecture by implementing an e-commerce website, comprised of at least three services. It should have the following features:
+- Authentication: Ability to register, log in and reset lost passwords.
+- Product catalog: Ability to browse, buy and sell products.
+- Shopping Cart: Ability to manage a shopping cart.
+- Adminstration: Ability to manage above features through authorized user roles.
+
+### Useful resources:
+- [Microservices.io](https://microservices.io/index.html)
+- [Microservices architecture for E-commerce](https://medium.com/@dearsikandarkhan/microservices-architecture-for-e-commerce-f8b49270e72f): An article detailing advantages of migrating from an monolithic e-commerce website to microservices architecture.
+- Refer to related resources for the backend framework of your choice.
+
+### Tips
+
+1. Document *at least* the following in your README - Description, Tech Stack, Installation instructions, Use instructions, API endpoints (if exposed), Screenshots (if any).
+2. The choice of programming language is crucial - conventional backend frameworks like Django, Ruby on Rails might obstruct the process. Go is recommmended.
+3. The emphasis of the task is to understand and build services: prioritise on backend and interservice communication rather than building user interface.
 
 
 ## Task ID: Web_Club_Chat_Bot
@@ -186,6 +174,53 @@ Some necessary features are:-
 ### Tips
 1. Bonus points for good UI/UX across differnt devices and screen sizes.
 
+## Task ID: Lazy_Loading
+#### `web development` `frontend develoment`
+
+Mentors: [@Harsh Agarwal](https://github.com/harshagrwl) (+91 9582885426), [@Apoorva MK](https://github.com/apoorva-mk) (+91 9902921511)
+
+Tag: `Medium`
+
+### Description
+Create a Web Application which should implement lazy loading and display only a few records on the screen at a time. For the demonstration purpose, you can use any dataset having more than 1000 records. The number of records per scroll event must be decided based on User Experience.
+**Note: You are free to use any Dataset and any framework of your choice*
+
+### Useful resources:
+* Example of a Lazy Loading Website: https://scrollmagic.io/examples/advanced/infinite_scrolling.html
+* Dataset which can be used for implementation: http://downloads.majestic.com/majestic_million.csv 
+* Lazy Loading tutorial in Angular: https://angular.io/guide/lazy-loading-ngmodules
+
+### Tips:
+1. Bonus points will be given for implementing lazy loading for images.
+2. Bonus points will be given for deploying the Web App to the cloud.
+
+## Task ID: Alarming_System_Mobile_App
+#### `app development`
+
+Mentors: [@Harsh Agarwal](https://github.com/harshagrwl) (+91 9582885426), [@Apoorva MK](https://github.com/apoorva-mk) (+91 9902921511)
+
+Tag: `Medium`
+
+### Description
+Build a mobile application that will act as an emergency alarming system for the friends and acquaintances whenever a person needs help. Some example functionalities that the app can contain.  
+1. User should be able to Sign In the application using thier Mobile Number or Email Id (OAuth).
+2. User should be able to select Emergenecy Contacts out of his/her saved contacts.
+3. In case of any emergency, user should be able to just press a button to send the Help SMS to all the emergency contacts.
+4. A common template can be used for the SMS to be sent.
+
+### Note:  
+1. It's not necessary to implement all the modules listed above, implement as many as possible.  
+2. Feel free to add your own modules or make changes to any of the modules listed above.  
+
+### Useful resources:
+* Android tutorials: https://developer.android.com/training/basics/firstapp
+* Tutorial for integrating SMS API: https://www.twilio.com/blog/2016/05/how-to-send-an-sms-from-android.html
+* Firebase Phone Auth: https://firebase.google.com/docs/auth/web/phone-auth
+
+### Tips:  
+1. Bonus points if the data is loaded dynamically from a backend service/spread sheet/any other online storage instead of hardcoding.  
+2. Bonus points for Good UI/UX.  
+
 
 ## Task ID: Multiplatform_App
 ####  `multiplatform development` `android` `iOS` `web development` `desktop application`
@@ -244,40 +279,6 @@ Get creative with the theme and other details.
 ### Tips
 1. Try to make a single player web game and then add the communication part with other players
 
-## Task ID: MicroKart
-
-#### `Web Development`, `Microservices`
-Mentor: [@abhishekkumar2718](https://github.com/abhishekkumar2718) (+91 7587730714), [@namanmanish](https://github.com/namanmanish) (+91 9429504960), [@Varun Pattar](https://github.com/varunpattar) (+91 97400 52012)
-
-Tag: `Easy`
-
-### Description
-
-Microservice Architectural style is an approach to developing a single application as a suite of small services, each running its own processes and communicating with lightweight mechanisms. The services are:
-- Highly maintainable and testable
-- Loosely coupled
-- Independently deployable
-- Organized around business capabilities
-- Owned by a small team.
-
-Microservice architecture enables rapid, frequent and reliable delivery of large, complex applications.
-
-Let's explore micorservice architecture by implementing an e-commerce website, comprised of at least three services. It should have the following features:
-- Authentication: Ability to register, log in and reset lost passwords.
-- Product catalog: Ability to browse, buy and sell products.
-- Shopping Cart: Ability to manage a shopping cart.
-- Adminstration: Ability to manage above features through authorized user roles.
-
-### Useful resources:
-- [Microservices.io](https://microservices.io/index.html)
-- [Microservices architecture for E-commerce](https://medium.com/@dearsikandarkhan/microservices-architecture-for-e-commerce-f8b49270e72f): An article detailing advantages of migrating from an monolithic e-commerce website to microservices architecture.
-- Refer to related resources for the backend framework of your choice.
-
-### Tips
-
-1. Document *at least* the following in your README - Description, Tech Stack, Installation instructions, Use instructions, API endpoints (if exposed), Screenshots (if any).
-2. The choice of programming language is crucial - conventional backend frameworks like Django, Ruby on Rails might obstruct the process. Go is recommmended.
-3. The emphasis of the task is to understand and build services: prioritise on backend and interservice communication rather than building user interface.
 
 ## Task ID: Stock_Price_Tracker
 
