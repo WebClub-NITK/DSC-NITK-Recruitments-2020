@@ -20,7 +20,7 @@ The website should have:
 * A landing section with call to action
 * Useful information about the event like registration dates, benefits etc. (You can make up the details like the timeline and such)
 * A timeline section
-* Anything you feel the wewbsite can use and will look good
+* Anything you feel the website can use and will look good
 * You can use any kind of effects or animations to make the website attractive
 
 ### Useful resources:
@@ -33,7 +33,7 @@ The website should have:
 1. Design your website on a design tool like [Figma](https://www.figma.com/)(free) or [Adobe XD](https://www.adobe.com/in/products/xd.html)(also free!) before coding the website.
 2. Set up the existing repository and use your homepage instead of the one currently in the use for bonus points.
 
-## Task ID: MicroKart
+## Task ID: Micro_Kart
 
 #### `Web Development`, `Microservices`
 Mentor: [@abhishekkumar2718](https://github.com/abhishekkumar2718) (+91 7587730714), [@namanmanish](https://github.com/namanmanish) (+91 9429504960), [@Varun Pattar](https://github.com/varunpattar) (+91 97400 52012)
@@ -42,7 +42,7 @@ Tag: `Easy`
 
 ### Description
 
-Microservice Architectural style is an approach to developing a single application as a suite of small services, each running its own processes and communicating with lightweight mechanisms. The services are:
+Microservice Architectural style is an approach to develop a single application as a suite of small services, each running its own processes and communicating with lightweight mechanisms. The services are:
 - Highly maintainable and testable
 - Loosely coupled
 - Independently deployable
@@ -68,7 +68,7 @@ Let's explore micorservice architecture by implementing an e-commerce website, c
 2. The choice of programming language is crucial - conventional backend frameworks like Django, Ruby on Rails might obstruct the process. Go is recommmended.
 3. The emphasis of the task is to understand and build services: prioritise on backend and interservice communication rather than building user interface.
 
-## Task ID: EMAIL_NOTIFICATION
+## Task ID: Email_Notification
 #### `web developement`
 Mentor:  [@mananpoddar](https://github.com/mananpoddarm) (+91 9113536695), [@Vivesh Yadav]() (+91 74629 42781), [@Dhanasekhar](https://github.com/DhanaSekharM) (+91 9538512471)
 
@@ -162,7 +162,7 @@ should be implemented. Feel free add additional features such as authentication,
 
 
 
-## Task ID: Video Chat Application
+## Task ID: Video_Chat_Application
 #### `WebRtc` `WebSockets` `web development`
 
 Mentors: [@Naman Trivedi](https://github.com/namanmanish) (+91 9429504960), [@Sriram Rao](https://github.com/Sriram2001) (+91 7975610644), [@Harsh Prakash Gupta](https://github.com/harshnitk17) (+91 7898578609)

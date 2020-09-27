@@ -14,7 +14,7 @@
 	* There is **no limit** to the number of candidates that can apply for a task.
 	* It is recommended to take up additional tasks only after **succesful completion** of the one task.  
  	* Candidates can optionally pair up to complete tasks that are labelled as **hard**. However if selected, the interviews will be taken individually and candidates will be evaluated based on individual contribution.  
-	* Feel free to the contact the mentor for clarifications regarding a task, to ask for tips if you get stuck somewhere or to take feedback and improve your task.
+	* Feel free to contact the mentor for clarifications regarding a task, to ask for tips if you get stuck somewhere or to take feedback and improve your task.
 3. After selection of a task by candidates, they should create a **private GitHub repository** and add the mentor as a collaborator.
 	* If you are working on multiple tasks, create **separate folders** for each task in the **same repository**.
 	* In case you are working on a hard task in pair, then any one candidate can have the folder for it in their repo and the other can share the link to it later while submitting.
@@ -38,7 +38,7 @@
 Fill this [form](https://forms.gle/rmiPmqeVNBueTHyB9) on or before the deadline date.
 
 ### Contact
-In case of further queries contact post in the [Recruitment WhatsApp group](https://chat.whatsapp.com/Fy0VXnL0JfJFLytBiJfiuQ) or contact:
+In case of further queries post in the [Recruitment WhatsApp group](https://chat.whatsapp.com/Fy0VXnL0JfJFLytBiJfiuQ) or contact:
 * Adarsh Naidu (+91 8618773543)
 * Apoorva MK (+91 9902921511) 
 * Saurabh Agarwala (+91 8415859101)
