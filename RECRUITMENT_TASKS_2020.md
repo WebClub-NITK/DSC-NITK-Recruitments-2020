@@ -243,3 +243,38 @@ Get creative with the theme and other details.
 
 ### Tips
 1. Try to make a single player web game and then add the communication part with other players
+
+## Task ID: MicroKart
+
+#### `Web Development`, `Microservices`
+Mentor: [@abhishekkumar2718]() (+91 7587730714), [@namanmanish]() (+91 9429504960), [@prajwal27]() (+91 9632721417)
+
+Tag: `Easy`
+
+### Description
+
+Microservice Architectural style is an approach to developing a single application as a suite of small services, each running its own processes and communicating with lightweight mechanisms. The services are:
+- Highly maintainable and testable
+- Loosely coupled
+- Independently deployable
+- Organized around business capabilities
+- Owned by a small team.
+
+Microservice architecture enables rapid, frequent and reliable delivery of large, complex applications.
+
+Let's explore micorservice architecture by implementing an e-commerce website, comprised of at least three services. It should have the following features:
+- Authentication: Ability to register, log in and reset lost passwords.
+- Product catalog: Ability to browse, buy and sell products.
+- Shopping Cart: Ability to manage a shopping cart.
+- Adminstration: Ability to manage above features through authorized user roles.
+
+### Useful resources:
+- [Microservices.io](https://microservices.io/index.html)
+- [Microservices architecture for E-commerce](https://medium.com/@dearsikandarkhan/microservices-architecture-for-e-commerce-f8b49270e72f): An article detailing advantages of migrating from an monolithic e-commerce website to microservices architecture.
+- Refer to related resources for the backend framework of your choice.
+
+### Tips
+
+1. Document *at least* the following in your README - Description, Tech Stack, Installation instructions, Use instructions, API endpoints (if exposed), Screenshots (if any).
+2. The choice of programming language is crucial - conventional backend frameworks like Django, Ruby on Rails might obstruct the process. Go is recommmended.
+3. The emphasis of the task is to understand and build services: prioritise on backend and interservice communication rather than building user interface.
