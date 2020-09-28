@@ -246,14 +246,18 @@ Tag: `Hard`
 ### Description
 * As we get aware of more and more clients like mobile(android or iOS), web and desktop appliations, we should realise that if we want to develop an application supporting these many clients, we have to write the same logic for a feature over and over again right? Because every client have a different tech stack like web has javascript frontend frameworks, android has react-native etc which can develop package that can run over JVM, or windows desktop application can be developed using Microsoft's windows universal tool in c# or c++?
 * I don't want to overwhelm you with loads of information, but believe me this task is doable and to explain it in the simple english at the risk of sounding technically disabled or ignorant(who cares xD), you should be able to write code once, and run that code over all these multiple clients without worrying about different tech stacks.
-* There are multiple tools for developing such pipelines, like react or kotlin multiplatform plugin. you have to read the documentation carefully and try to develop such a pipeline and it can be for a very simple feature, as simple as a textbox which can just display the number of characters a user has inputted.
+* There are multiple tools for developing such pipelines, like react, kotlin multiplatform plugin, flutter etc. you have to read the documentation carefully and try to develop such a pipeline and it can be for a very simple feature, as simple as a textbox which can just display the number of characters a user has inputted.
 
 
 ### Useful resources:
 * kotlin multiplatform plugin - https://kotlinlang.org/docs/reference/mpp-intro.html
 * comparison between different tools: https://steelkiwi.com/blog/flutter-vs-react-native-vs-xamarin-for-cross-platform-development/
+* https://blog.codemagic.io/cross-platform-mobile-app-development-with-flutter/
+* https://github.com/Kotlin/kmm-sample
 ### Tips
 1. web and android or android and iOS can be an easy combination to start with.
+2. needless to mention that if you can develop a complex feature and not just a simple text box, it will give you an edge over your peers.
+
 
 ## Task ID: Winter_of_Code_Server
 #### `MySQL`  `GraphQL`  `Node.js` 
